@@ -1,5 +1,9 @@
 # add config.py to my .gitignore
 config.py
+
+# add 2 large files
+movies_metadata.csv
+ratings.csv
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
